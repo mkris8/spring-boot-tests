@@ -24,7 +24,7 @@ Examples of how to test Spring boot Application:
 
 
 
-* CONTRACT / PACT Testing https://github.com/mkris8/spring-boot-contract-testing-pact.git \
+* CONTRACT / PACT Testing https://github.com/mkris8/spring-boot-contract-testing-pact.git 
 * Unit testing (jUnit)
 * TODO Integration Testing
 * TODO TestContainers
